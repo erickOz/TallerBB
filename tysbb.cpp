@@ -9,6 +9,5 @@ int main{
 		b += 2;
 		prinf("%d",b);	
 	}
-	printf("Nuevo cambio");
 
 }
