@@ -10,5 +10,7 @@ int main{
 		prinf("%d",b);	
 	}
 	printf("Nuevo cambio");
+	printf("ggg");
+	print("Holasd");
 
 }
